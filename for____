@@ -1,0 +1,23 @@
+	** java 객체형 for
+		
+		for (Object ob : Object List(ArrayList<Object>, List<Object>) ) {
+			// 객체형 리스트 (반복문)
+		}
+		
+		
+	** JSTL에 객체형 forEach 리스트 반복문
+		
+		<c:forEach>
+		
+		</c:forEach>
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
