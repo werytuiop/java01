@@ -1,0 +1,9 @@
+	* 패키지
+	
+		비슷한 기능의 클래스를 그룹화
+		- rt.jar 패키지에 java.util.Scanner 존재
+		
+		
+	*
+		내가 new로 scn을 만들면 힙에 저장
+		scn에 접근하는 연산자: .   ex) scn.next();
