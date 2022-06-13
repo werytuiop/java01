@@ -1,4 +1,4 @@
-package org.java.class_;
+
 
 public class MathRandom {
 
