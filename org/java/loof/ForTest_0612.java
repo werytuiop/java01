@@ -2,7 +2,7 @@ package org.java.loof;
 
 import java.util.Scanner;
 
-public class For2 {
+public class ForTest_0612 {
 
 	public static void main(String[] args) {
 
@@ -10,9 +10,9 @@ public class For2 {
 		System.out.println("<<구구단 입력>>");
 		Scanner scn = new Scanner(System.in);
 
-		System.out.println("시작 단 입력");
+		System.out.println("~ 시작 단 입력 ~");
 		int startNum = scn.nextInt();
-		System.out.println("끝 단 입력");
+		System.out.println("~ 끝 단 입력 ~");
 		int endNum = scn.nextInt();
 
 		System.out.println(startNum + "단 ~ " + endNum + "단\n");

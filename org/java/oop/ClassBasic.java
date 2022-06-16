@@ -9,7 +9,7 @@ public class ClassBasic {
 	public String userId;
 	public String userPw;
 	public int userAge;
-	private String projectName; // private 캡슐화 
+	private String projectName; // private 캡슐화
 	// 클래스 멤버 (static)
 	public static int projectYear;
 
@@ -17,8 +17,8 @@ public class ClassBasic {
 	public ClassBasic() {
 		System.out.println("생성자(constructor)");
 	}
-
 	
+
 	/* 메소드 */
 
 	// 인스턴스 메소드
@@ -34,7 +34,7 @@ public class ClassBasic {
 	
 	/* getters, setters */
 
-	// private 멤버(필드)를 초기화 set
+	// private 멤버(필드)를 초기화
 	public void setProjectName(String projectName) {
 		this.projectName = projectName;
 	}
@@ -42,7 +42,6 @@ public class ClassBasic {
 	// private 멤버(필드)를 get
 	public String getProjectName() {
 		return this.projectName;
-	}	
-	
+	}
 
 }

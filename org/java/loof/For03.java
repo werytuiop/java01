@@ -1,6 +1,6 @@
 package org.java.loof;
 
-public class For3 {
+public class For03 {
 
 	public static void main(String[] args) {
 
